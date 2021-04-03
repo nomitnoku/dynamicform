@@ -1,0 +1,7 @@
+{
+  "short_name": "Todo",
+  "name": "Dyanamic Form",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2b2ba0"
+}
